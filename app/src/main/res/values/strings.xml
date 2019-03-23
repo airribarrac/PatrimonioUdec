@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">PatrimonioUdec</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="sistemas">Edificio de sistemas</string>
+    <string name="tsistemas">En la década de 1960, en Chile la informática era todavía un tema incipiente.
+        En 1964, la Universidad de Concepción, en manos del rector de ese entonces Ignacio González
+        Ginouvés, aprueba la creación del Centro de cómputos, con el objetivo de dictar cursos de programación
+        y adquirir un sistema computacional para la universidad. Dos años más tarde, esto último se hace
+        realidad, mediante la adquisición del computador IBM 1620 II, gracias a aportes de IBM, Unesco
+        y la Universidad.
+        \nEn 1967 el Centro de Cómputos se transforma en el Centro de Ciencias de la Computación e Información
+        (CCCI), incorporando a profesionales responsables del sistema de computadores de la Casa Central
+        de la Universidad.</string>
+    <string name="fingenieria">Facultad de Ingenieria</string>
+    <string name="tfingenieria">En 1919, se funda la Universidad de Concepción. Se crea la Escuela de Química
+        Industrial, precedente de la Facultad de Ingeniería, dictando la carrera de Química industrial.
+        Se suma después los títulos de Químico Práctico e Ingeniero Químico. Todas las escuelas se incluyen
+        en la Facultad de Ciencias de entonces.\n
+
+En 1926 se divide la universidad en cuatro facultades. Una de ellas es la Facultad de Tecnología, donde
+        se encuentra la Escuela de Química Industrial. \n
+
+En 1929 se cambia el nombre por el de Escuela de Ingeniería Química Industrial.\n
+
+En 1956 se crea la carrera de Ingeniería Mecánica.</string>
+    <string name="campanil">Campanil</string>
+    <string name="tcampanil">CAMPANIL
+Imagen UdeC
+El Campanil, cortándose sobre los oscuros pinares y en el luminoso raso del firmamento, es bello. Será
+        siempre bello. Va a ser el símbolo universitario por excelencia, signo de rectitud y elevación,
+        columna que difundirá en las almas goce, placidez y serenidad, flecha que apunta a la altura,
+        como la filosofía, donde más allá de las nubes que amedrentan, triunfa la claridad celeste,
+        así se expresaba don Enrique Molina Garmendia, en octubre de 1943, poco después de haber sido
+        construido el campanil de nuestra casa de estudios.\n
+
+Fue precisamente él, quien altamente impresionado por las características de la Universidad de California,
+        en Berkeley, esgrimía la idea de una "ciudad universitaria", una Universidad parque, abierta
+        a todo visitante y en la que se levantara imponente un Campanil.</string>
+    <string name="lagunapatos">Laguna los patos</string>
+    <string name="tlagunapatos"></string>
+    <string name="cdeporte">Casa del Deporte</string>
+    <string name="tcdeporte">Construida por el arquitecto Enrique San Martín Sepúlveda. Realizándose
+        la mayoría de las obras entre 1941 y 1942, fue inaugurada en el año 1944, fecha que coincide
+        con las VII Olimpiadas Universitarias Nacionales en las cuales el plantel de la Universidad
+        de Concepción recibió a los equipos que participaron de dicha competencia.</string>
+    <string name="fquimica">Facultad de Ciencias Químicas</string>
+    <string name="tfquimica">El origen de la Facultad de Ciencias Químicas se remonta a los albores de
+        la Universidad, con la creación del Instituto Central de Química en 1959, transformándose en
+        1993 en la Facultad de Ciencias Químicas de la Universidad de Concepción. La Facultad se
+        encuentra conformada por los departamentos de Química Analítica e Inorgánica, Química Orgánica,
+        Polímeros, Fisicoquímica y Ciencias de la Tierra.\n</string>
+    <string name="edvirginio">Edificio Virginio Gomez</string>
+    <string name="tedvirginio">en 1947 se llamó a estudio  para la construcción  de un hogar de varones,
+        proyecto que finalmente ganaron en el mes de octubre de ese año los arquitectos Edwil Weil  Wolke
+        y Mario Recordón Burnier.  Con la firma del contrato se procedió a su construcción al año
+        siguiente, resultando el actual  Edificio Virginio Gómez  del Campus Concepción.\n
+
+Su arquitectura no es casual, se diseñó con el fin de dar comodidad a los estudiantes, no obstante al
+        momento de finalizar su construcción , la polémica estuvo presente en algunos arquitectos
+        detractores, pues el edificio, a su juicio, desvirtuaba en diseño respecto al resto y sería de
+        paso el inicio de una revolución arquitectónica en la universidad.</string>
+    <string name="biblioteca">Biblioteca Central</string>
+    <string name="tbiblioteca">Fue fundada en 1926 por el rector de ese entonces, Enrique Molina Garmendia,
+        y su primer director fue, hasta 1939, Luis David Cruz Ocampo, hasta ese momento Secretario General
+        de la Universidad.\n
+
+Originalmente estaba situada en la calle Barros Arana #1068, y contaba con 2.900 volúmenes, de los cuales
+        la mayoría correspondía a textos relacionados con el Derecho.\n
+
+Sin embargo, en 1972 se traslada permanentemente al campus de la Universidad, en donde permanece hoy
+        en día su Casa Central, el edificio Biblioteca Luis David Cruz Ocampo.</string>
+    <string name="feducacion">Facultad de Educación</string>
+    <string name="tfeducacion"></string>
+    <string name="humanidades">Facultad de Humanidades y Arte</string>
+    <string name="thumanidades">Con sus orígenes en la fundación de la Universidad en el año 1919, junto
+        a la creación del Curso de Pedagogía en Inglés, la actual Facultad de Humanidades y Arte existe desde 1980.
+\n
+Sin embargo, su estructura tiene fuerte arraigo en los departamentos que nacieron bajo el alero de
+        la antigua Facultad de Filosofía y Educación, específicamente en la Escuela de Educación en
+        donde se encontraban los departamentos de Castellano, Francés, Inglés, Filosofía, Historia y
+        Geografía, Psicología, Pedagogía, además del Curso Normal (1958 – 1964).
+\n
+Luego, en 1971, se creó el Instituto de Arte que incluyó los Departamentos de Artes Musicales, Artes
+        Plásticas y Visuales, Teatro, Coro y Orquesta. En 1981 la Facultad adopta el nombre de
+        Educación, Humanidades y Arte, con los departamentos: Arte, Currículum e Instrucción, Educación
+        Física, Español, Filosofía y Ciencias de le Educación, Historia e Idiomas Extranjeros.\n
+
+Finalmente, en 1996 la Facultad da lugar a tres nuevas facultades: Educación, Ciencias Sociales y
+        Humanidades y Arte, con sus actuales departamentos.</string>
+    <string name="fderecho">Facultad de Ciencias Jurídicas y Sociales UdeC</string>
+    <string name="tfderecho">Facultad ubicada en la antigua Escuela de Leyes, cuya construcción
+    se remonta a la década de 1930</string>
+    <string name="anatomia">Edificio de Anatomia</string>
+    <string name="tanatomia">El edificio de Anatomía que aloja al Departamento de Anatomía Normal y
+        Medicina Legal, fue inaugurado en el año 1933 constituyendo una de las joyas arquitectónicas
+        más relevantes que la ciudad de Concepción hasta hoy conserva.</string>
+    <string name="fbiologia">Facultad de Ciencias Naturales y Oceanográficas</string>
+    <string name="tfbiologia">Ubicada en el antiguo Instituto de Biología Genera, su construcción
+    se remonta al año 1934</string>
+    <string name="ffismat">Facultad de Ciencias Físicas y Matemáticas</string>
+    <string name="tffismat">Los orígenes de la facultad se dan con la creación del Instituto Central de
+        Física y el Instituto Central de Matemáticas en 1962, dos instituciones separadas creadas bajo e
+        l rectorado de David Stitchkin.\n
+
+En 1992 la Facultad de Ciencias de la universidad se separa en la Facultad de Ciencias Químicas de
+        la Universidad de Concepción y la Facultad de Ciencias Físicas y Matemáticas, naciendo la
+        facultad actual.</string>
+    <string name="ffarmacia">Facultad de Farmacia</string>
+    <string name="tffarmacia">Edificio inaugurado en el año 1938.</string>
+    <string name="pinacoteca">Casa del Arte José Clemente Orozco</string>
+    <string name="tpinacoteca">Dos hechos de incidencia directa en la construcción del edificio
+        (Casa del Arte) marcarán y definirán el espacio que albergará a la futura Pinacoteca de la
+        Universidad. Primero que en mayo de 1960, la ciudad de Concepción es afectada por fuertes
+        terremotos que causan la destrucción del antiguo Teatro Concepción y dañan seriamente algunas
+        edificaciones del Barrio Universitario. Entre los edificios más afectados se encuentra la
+        Escuela Dental, hecho que determinará que el emplazamiento de la Casa del Arte se haya dado
+        en su actual ubicación. Y segundo, que al año siguiente, en 1961, el patrimonio artístico
+        universitario es exhibido en Buenos Aires con gran éxito. Los elogiosos comentarios por parte
+        del público y la crítica, sirven para impulsar, definitivamente, la construcción de un edificio
+        apropiado para su custodia y exhibición. Ese mismo año, el rector Stitchkin y el directorio
+        de la Universidad destinan para la construcción de la Casa del Arte el sitio de la destruida
+        Escuela Dental.</string>
+    <string name="plato">Edificio Salvador Galvez</string>
+    <string name="tplato">“El Plato”, “Platillo” o también conocido como Salvador Gálvez. De estas
+        formas es conocido el Edificio de Aulas de la Universidad de Concepción. \n
+Fue diseñado en 1970 por el arquitecto Gonzalo Rudolphy Sánchez en base a una planta circular, reflejo
+        de la modernidad tecnológica que se imponía en una época en que el hombre había recién
+        llegado a la Luna. \n
+La construcción contempla un anillo exterior de circulación en segundo nivel, que brinda una visión
+        total del campus y del paisaje de cerros con frondosa vegetación que lo rodea.</string>
+    <string name="arco">Arco Universidad de Concepción</string>
+    <string name="tarco">En 1946 y bajo la rectoría de Enrique Molina Garmendia, fundador de la Universidad,
+        se llamó a un concurso nacional de arquitectura que concluiría en octubre del mismo año, para el
+        diseño de un edificio que se presentara como la cara visible de la Universidad de Concepción
+        desde afuera del campus, y que se constituyese como el ingreso principal a la universidad
+        por la calle Janequeo.\n
+        Los ganadores del concurso anterior fueron los arquitectos Edmundo Buddemberg y Gabriela
+        González de Léniz, y las construcciones se llevaron a cabo entre 1948 y 1954. La estructura
+        se basa en una serie de columnas estriadas de tres pisos de altura, que acaban con un techo
+        de marquesina curva, formando un marco horizontal tapizado por un relieve alegórico del
+        escultor argentino Mario Ormezzano,1​ el cual simboliza la inteligencia, el conocimiento y el
+        pensamiento creador.3​ Las columnas del arco dan cuenta de un estilo arquitectónico de tipo
+        fascista.
+        ​</string>
+    <string name="edtecmec">Edificio Tecnológico Mecánico</string>
+    <string name="tedtecmec"></string>
+</resources>
